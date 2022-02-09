@@ -25,8 +25,7 @@
     <MicrosoftVisualStudioExtensibilityTestingVersion>0.1.124-beta</MicrosoftVisualStudioExtensibilityTestingVersion>
     <!-- CodeStyleAnalyzerVersion should we updated together with version of dotnet-format in dotnet-tools.json -->
     <CodeStyleAnalyzerVersion>4.0.1</CodeStyleAnalyzerVersion>
-    <VisualStudioEditorPackagesVersion>16.10.230</VisualStudioEditorPackagesVersion>
-    <VisualStudioEditorNewPackagesVersion>17.0.487</VisualStudioEditorNewPackagesVersion>
+    <VisualStudioEditorNewPackagesVersion>17.1.380</VisualStudioEditorNewPackagesVersion>
     <ILAsmPackageVersion>5.0.0-alpha1.19409.1</ILAsmPackageVersion>
     <ILDAsmPackageVersion>5.0.0-preview.1.20112.8</ILDAsmPackageVersion>
     <MicrosoftVisualStudioLanguageServerProtocolPackagesVersion>17.1.11</MicrosoftVisualStudioLanguageServerProtocolPackagesVersion>
@@ -174,11 +173,11 @@
     <MicrosoftVisualStudioTextLogicVersion>$(VisualStudioEditorNewPackagesVersion)</MicrosoftVisualStudioTextLogicVersion>
     <MicrosoftVisualStudioTextUIVersion>$(VisualStudioEditorNewPackagesVersion)</MicrosoftVisualStudioTextUIVersion>
     <MicrosoftVisualStudioTextUIWpfVersion>$(VisualStudioEditorNewPackagesVersion)</MicrosoftVisualStudioTextUIWpfVersion>
-    <MicrosoftVisualStudioTextUICocoaVersion>$(VisualStudioEditorPackagesVersion)</MicrosoftVisualStudioTextUICocoaVersion>
-    <MicrosoftVisualStudioThreadingAnalyzersVersion>17.0.64</MicrosoftVisualStudioThreadingAnalyzersVersion>
-    <MicrosoftVisualStudioThreadingVersion>17.0.64</MicrosoftVisualStudioThreadingVersion>
+    <MicrosoftVisualStudioTextUICocoaVersion>$(VisualStudioEditorNewPackagesVersion)</MicrosoftVisualStudioTextUICocoaVersion>
+    <MicrosoftVisualStudioThreadingAnalyzersVersion>17.1.46</MicrosoftVisualStudioThreadingAnalyzersVersion>
+    <MicrosoftVisualStudioThreadingVersion>17.1.46</MicrosoftVisualStudioThreadingVersion>
     <MicrosoftVisualStudioUtilitiesVersion>$(MicrosoftVisualStudioShellPackagesVersion)</MicrosoftVisualStudioUtilitiesVersion>
-    <MicrosoftVisualStudioValidationVersion>17.0.28</MicrosoftVisualStudioValidationVersion>
+    <MicrosoftVisualStudioValidationVersion>17.0.43</MicrosoftVisualStudioValidationVersion>
     <MicrosoftVisualStudioInteractiveWindowVersion>4.0.0-beta.21267.2</MicrosoftVisualStudioInteractiveWindowVersion>
     <MicrosoftVisualStudioVsInteractiveWindowVersion>4.0.0-beta.21267.2</MicrosoftVisualStudioVsInteractiveWindowVersion>
     <MicrosoftVisualStudioWinFormsInterfacesVersion>17.0.0-previews-4-31709-430</MicrosoftVisualStudioWinFormsInterfacesVersion>
